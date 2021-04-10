@@ -1,1 +1,1 @@
-db_password = 'Encore777%'
+db_password = 'Encor####'

@@ -4,7 +4,7 @@
 
 ## Overview
 
-The purpose of this analysis was to learn the process of creating data pipelines, also known as Extract, Transform, Load (ETL). This process, which is often the first step before performing any analysis, consists of moving robust data around between databases---it ensures that the data is consistent and maintains its integrity. 
+The purpose of this analysis was to learn the process of creating data pipelines, also known as Extract, Transform, Load (ETL). This process, which is often the first step before performing any analysis, consists of moving robust data around between databases––it ensures that the data is consistent and maintains its integrity. 
 
 For this assignment, ETL was performed on several movie datasets to predict popular films for a streaming service. An algorithm was created to predict which low budget movies being released would become popular in order to purchase at a low price. 
 
